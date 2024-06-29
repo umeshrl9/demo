@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository
 
-Author: Umesh Kashyap
+Author: Umesh Kashyap(NSUT)
